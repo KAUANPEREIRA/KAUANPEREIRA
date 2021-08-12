@@ -1,6 +1,6 @@
 ### Ola eu sou o Kauan Pereira
 - 🔭  Atualmente trabalho com front-End
-- 🌱 Atualmente estudando javascript avançado sempre se aprimorando e aprendendo coisas novas
+- 🌱 Atualmente estudando javascript avançado 
 -  ✔ sempre se aprimorando e aprendendo coisas novas, aprendizado rápido
 <div>
   <a href="https://github.com/KAUANPEREIRA">

@@ -1,7 +1,9 @@
 ### Ola eu sou o Kauan Pereira
 - 🔭  Atualmente trabalho com front-End
 - 🌱 Atualmente estudando javascript avançado 
+- 🌱 Estudando paralelamente Javascript E React.JS
 -  ✔ sempre se aprimorando e aprendendo coisas novas, aprendizado rápido
+
 <div>
   <a href="https://github.com/KAUANPEREIRA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KAUANPEREIRA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

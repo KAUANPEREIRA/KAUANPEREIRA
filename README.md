@@ -1,7 +1,7 @@
 ### Ola eu sou o Kauan Pereira
-- 🔭  Atualmente trabalho como fullstack
-- 🌱 Atualmente estudando javascript avançado 
-- 🌱 Estudando paralelamente Javascript E React.JS
+- 🔭  Atualmente trabalho como Front-End Reactjs
+- 🌱 Estudando e praticando React + typescrtipt com projetos pessoais
+- 🌱 Desenvolvedor Front-End com noções de backend
 -  ✔ sempre se aprimorando e aprendendo coisas novas, aprendizado rápido
 
 <div>

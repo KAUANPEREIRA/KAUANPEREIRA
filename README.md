@@ -1,4 +1,5 @@
 ### Ola eu sou o Kauan Pereira
+- + de 3 anos de experiência na aréa
 - 🔭  Atualmente trabalho como Front-End Reactjs
 - 🌱 Estudando e praticando React + typescrtipt com projetos pessoais
 - 🌱 Desenvolvedor Front-End com noções de backend
